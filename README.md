@@ -1,5 +1,5 @@
 # py-mandelbrot-explorer
-Mandelbrot explorer built in a couple of hours on Pyglet. Could be hella optimized.
+Mandelbrot explorer built in a couple of hours on Pyglet. Could be optimized.
 
 ## Todo
 - Optimize this bad boy
